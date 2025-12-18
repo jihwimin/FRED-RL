@@ -101,6 +101,11 @@ Final models reverted to **2000–present data** to preserve strategic flexibili
 
 ## Results
 
+![Total Return Comparison](total_return_comparison.png)
+
+- TD3 achieved +100.1% total return
+- Outperformed S&P 500 (+94.0%) over the test period
+
 - **TD3 outperformed the S&P 500 benchmark**
 - Strong sample efficiency with limited monthly data (~200 observations)
 - Learned dynamic allocation patterns aligned with macroeconomic regimes
